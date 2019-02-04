@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd473b18-fe9b-482f-8992-2e2d24f0bff3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilkpush.html" beforeDir="false" afterPath="$PROJECT_DIR$/ilkpush.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jbmfw.css" beforeDir="false" afterPath="$PROJECT_DIR$/jbmfw.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,42 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ilkpush.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ilkpush.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="776">
-              <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jbmfw.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jbmfw.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#63#67#0" />
-                <element signature="e#91#119#0" />
-                <element signature="e#134#166#0" />
-                <element signature="e#181#215#0" />
-                <element signature="e#230#265#0" />
-                <element signature="e#280#313#0" />
-                <element signature="e#320#354#0" />
-                <element signature="e#369#407#0" />
-                <element signature="e#422#462#0" />
-                <element signature="e#4125#4151#0" />
-                <element signature="e#4163#4188#0" />
-              </folding>
+            <state relative-caret-position="677">
+              <caret line="58" column="7" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -146,7 +113,8 @@
       <workItem from="1548915700876" duration="1554000" />
       <workItem from="1549271099882" duration="821000" />
       <workItem from="1549272104691" duration="676000" />
-      <workItem from="1549276211687" duration="93000" />
+      <workItem from="1549276211687" duration="273000" />
+      <workItem from="1549276520187" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="Bu denemeyi biz yaptık">
       <created>1549271256515</created>
@@ -162,15 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1549272363624</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="last-child-html">
+      <created>1549276328948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549276328948</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3144000" />
+    <option name="totallyTimeSpent" value="3425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1003" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -202,9 +176,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bu denemeyi biz yaptık" />
     <MESSAGE value="ne diyim" />
-    <option name="LAST_COMMIT_MESSAGE" value="ne diyim" />
+    <MESSAGE value="last-child-html" />
+    <option name="LAST_COMMIT_MESSAGE" value="last-child-html" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ilkpush.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -310,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ilkpush.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="776">
-          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        <state relative-caret-position="677">
+          <caret line="58" column="7" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
         </state>
       </provider>
     </entry>
