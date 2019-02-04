@@ -1,12 +1,17 @@
 /** Author: Mustafa ÇAKMAK **/
-
+.asd{}
 
 /** JBM CSS FRAMEWORK **/
 body{
 
 }
 
-
+.son-pr-0 li:nth-last-child(1) {
+  padding-right: 0px !important;
+}
+.ilk-pl-0 li:first-child{
+  padding-left: 0px !important;
+}
 
 /** Padding **/
 
